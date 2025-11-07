@@ -1,0 +1,118 @@
+{
+  "January": {
+    "Fruit": [
+      "Citrus (grapefruits, kumquats, limes, cara cara oranges, navel oranges, mandarins, pomelos, tangerines)"
+    ],
+    "Vegetables": [
+      "Arugula", "Beets", "Brussel sprouts", "Cabbage", "Celery root", "Collard greens",
+      "Dandelion greens", "Kale", "Leeks", "Mushrooms", "Mustard greens", "Parsnips",
+      "Radishes", "Sunchokes", "Swiss Chard", "Winter squash"
+    ]
+  },
+  "February": {
+    "Fruit": [
+      "Citrus (grapefruit, lemons, navel oranges, pomelos)"
+    ],
+    "Vegetables": [
+      "Artichokes", "Asparagus", "Bok choy", "Cabbage", "Celery", "Collard greens",
+      "Escarole", "Frisee", "Kale", "Leeks", "Pea shoots", "Radish", "Turnips", "Winter squash"
+    ]
+  },
+  "March": {
+    "Fruit": [
+      "Citrus (grapefruit, kumquats, lemons, mandarins)"
+    ],
+    "Vegetables": [
+      "Asparagus", "Cabbage", "Cauliflower", "Kale", "Pea shoots", "Radish", "Snow peas", "Winter squash"
+    ]
+  },
+  "April": {
+    "Fruit": [
+      "Berries (strawberries, blackberries, blueberries, cherries)",
+      "Citrus (grapefruits, kumquats, meyer lemons, navel oranges, pomelos, tangelos, tangerines)",
+      "Pineapple guava", "Rhubarb"
+    ],
+    "Vegetables": [
+      "Asparagus", "Avocadoes", "Beets", "Broccoli rabe", "Carrots", "Cauliflower",
+      "Fava beans", "Fennel", "Chard", "Collard", "Kale", "Nettles", "Peas", "Spinach",
+      "Watercress", "Winter squash"
+    ]
+  },
+  "May": {
+    "Fruit": [
+      "Berries (strawberries, blackberries, blueberries, mulberries, raspberries, tayberries)",
+      "Cherries", "Rhubarb"
+    ],
+    "Vegetables": [
+      "Artichokes", "Asparagus", "Avocados", "Cauliflower", "Chard", "Collard", "Kale", "Peas"
+    ]
+  },
+  "June": {
+    "Fruit": [
+      "Berries (blackberries, blueberries, mulberries, raspberries, gooseberries)",
+      "Cherries", "Loquats", "Melons", "Nectarines"
+    ],
+    "Vegetables": [
+      "Artichokes", "Broccoli", "Cauliflower", "Chard", "Collard", "Corn", "Fava beans", "Kale", "Peas"
+    ]
+  },
+  "July": {
+    "Fruit": [
+      "Apricots", "Nectarines", "Peaches", "Plums", "Pluots",
+      "Berries (blueberries, boysenberries, mulberries, raspberries, strawberries, gooseberries)",
+      "Figs", "Melons", "Rhubarb"
+    ],
+    "Vegetables": [
+      "Artichokes", "Avocados", "Broccoli", "Cauliflower", "Green beans", "Snap peas", "Summer squash"
+    ]
+  },
+  "August": {
+    "Fruit": [
+      "Berries (blackberries, blueberries, raspberries, strawberries, gooseberries)",
+      "Figs", "Grapefruit", "Grapes", "Melons", "Nectarines", "Peaches", "Pears", "Pluots", "Plums"
+    ],
+    "Vegetables": [
+      "Artichokes", "Broccoli", "Cauliflower", "Okra", "Snap peas", "Summer squash", "Sunflower sprouts", "Tomatoes"
+    ]
+  },
+  "September": {
+    "Fruit": [
+      "Apples", "Berries", "Grapefruits", "Jujubes", "Nectarines", "Pears", "Pomegranates"
+    ],
+    "Vegetables": [
+      "Artichokes", "Asparagus", "Bok choy", "Brussel sprouts", "Celery", "Eggplant",
+      "Okra", "Snap peas", "Squash", "Tomatoes"
+    ]
+  },
+  "October": {
+    "Fruit": [
+      "Apples", "Dates", "Figs", "Grapefruits", "Pears"
+    ],
+    "Vegetables": [
+      "Arugula", "Avocados", "Bok choy", "Brussel sprouts", "Broccoli", "Cauliflower",
+      "Collard greens", "Chard", "Eggplant", "Fennel", "Kale", "Okra", "Snap peas",
+      "Tomatoes", "Winter squash"
+    ]
+  },
+  "November": {
+    "Fruit": [
+      "Apples", "Dates", "Grapefruit", "Pears", "Persimmons", "Pineapple guava", "Pomegranates"
+    ],
+    "Vegetables": [
+      "Greens (arugula, collards, dandelion, kale, chard)", "Bok choy", "Broccoli",
+      "Brussel sprouts", "Cabbage", "Cauliflower", "Eggplant", "Fennel", "Okra",
+      "Snap peas", "Winter squash"
+    ]
+  },
+  "December": {
+    "Fruit": [
+      "Citrus (cara cara, mandarin, navel oranges, meyer lemons, grapefruits)",
+      "Pears", "Pomegranates"
+    ],
+    "Vegetables": [
+      "Arugula", "Beets", "Bok choy", "Broccoli", "Brussel sprouts", "Cabbage",
+      "Carrots", "Cauliflower", "Chard", "Collard", "Dandelion greens", "Eggplant",
+      "Fennel", "Kale", "Leeks", "Parsnips", "Snap peas", "Sweet potatoes", "Winter squash"
+    ]
+  }
+}
