@@ -6,19 +6,29 @@ async function loadSeason(month) {
   const response = await fetch('data.json');
   const data = await response.json();
 
-  const listProduce = data[month];
+  const produce = data[month];
   const produceContainer = document.getElementById('produce');
   const monthTitle = document.getElementById('monthTitle');
-  /// ex January Harvest
-  monthTitle.textContent = `${month} Harvest`;
+  monthTitle.textContent = `${month}'s Harvest`;
 
-  produceContainer.innerHTML = produceList
-    /// .map is method creating array from array/callback for each index (asc order)
-    /// outputs new array where prev elements are string html list item
-    /// join takes each element in the transformed array and joines them into a string
-    .map(item => `<li>${item}</li>`)
-    .join('');
+  // Create separate lists for fruit and vegetables
+  const fruitList = produce.Fruit.map(item => `<li>${item}</li>`).join('');
+  const vegList = produce.Vegetables.map(item => `<li>${item}</li>`).join('');
+
+  // Combine into HTML
+  produceContainer.innerHTML = `
+  <div class="produce-box">
+    <h3>Fruit</h3>
+    <ul>${fruitList}</ul>
+  </div>
+  <div class="produce-box">
+    <h3>Vegetables</h3>
+    <ul>${vegList}</ul>
+  </div>
+`;
+
 }
+
 
 /// Create func that assigns value and content to list for each month 
 // (like key, val)

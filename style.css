@@ -55,3 +55,46 @@ footer {
   font-size: 0.9rem;
   border-top: 2px solid #e6e2c1;
 }
+
+#produce {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-top: 20px;
+}
+
+.produce-box {
+  flex: 1;
+  max-width: 400px;
+  min-width: 250px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  height: 350px; /* Keeps boxes the same height */
+  display: flex;
+  flex-direction: column;
+}
+
+.produce-box h3 {
+  text-align: center;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.produce-box ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow-y: auto; /* adds scroll if content exceeds box height */
+}
+
+.produce-box li {
+  margin: 0.4rem 0;
+  text-align: center;
+  color: #444;
+  font-size: 1rem;
+}

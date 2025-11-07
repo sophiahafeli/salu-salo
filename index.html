@@ -3,19 +3,18 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Salo – Fresh Finds Today in the Bay</title>
+  <title>Salo - Fresh Finds Today in the Bay</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
     <h1>Salo</h1>
-    <p>What's in season right now near you</p>
-    <select id="monthSelect"></select>
+    <p>Seasonally Fresh Finds Near You</p>
   </header>
 
   <main>
-    <h2 id="monthTitle"></h2>
-    <ul id="produce"></ul>
+    <select id="monthSelect"></select> <b id="monthTitle"></b>
+    <div id="produce"></div>
   </main>
 
   <footer>
@@ -23,5 +22,6 @@
   </footer>
 
   <script src="script.js"></script>
+  <script src="data.json"></script>
 </body>
 </html>
