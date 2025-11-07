@@ -1,6 +1,6 @@
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #f6f8fa;
+  background-color: #81b5ea;
   color: #2f3e2f;
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@ body {
 header {
   background-color: #f9f9ed;
   padding: 2rem 1rem;
-  border-bottom: 2px solid #e0dead;
+  border-bottom: 2px solid #cfcc6d;
 }
 
 h1 {
@@ -22,7 +22,7 @@ select {
   padding: 0.5rem;
   margin-top: 1rem;
   font-size: 1rem;
-  border: 1px solid #cfcaa3;
+  border: 1px solid #cfcc6d;
   border-radius: 8px;
   background-color: white;
 }
@@ -41,7 +41,7 @@ ul {
 }
 
 li {
-  background-color: #eef0f8;
+  background-color: #81b5ea;
   padding: 1rem;
   border-radius: 12px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -50,10 +50,10 @@ li {
 }
 
 footer {
-  background-color: #edf2e1;
+  background-color: #81b5ea;
   padding: 1rem;
   font-size: 0.9rem;
-  border-top: 2px solid #e6e2c1;
+  border-top: 2px solid #cfcc6d;
 }
 
 #produce {
