@@ -26,7 +26,6 @@ async function loadSeason(month) {
     <ul>${vegList}</ul>
   </div>
 `;
-
 }
 
 
